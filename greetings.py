@@ -18,6 +18,8 @@ class Student:
         self.classroom = classroom
         return f"{self.first_name} {self.last_name} joins {classroom}."
 
+    # Henry arrived, waiting for him to create farewell message
+
 
 if __name__ == "__main__":
     registry = []
